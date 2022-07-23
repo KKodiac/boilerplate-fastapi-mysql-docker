@@ -1,19 +1,13 @@
 # Backend
 
-This is a backend setup for SVTeamD. 
+This is a Boilerplate for learning and testing FastAPI.
 
 ## Description 
 - Back-end: [Fastapi](https://fastapi.tiangolo.com)
-- Front-end: [Flutter](https://flutter.dev)
 - Database: [MySQL](https://www.mysql.com)
 
 ## Installation 
 - Clone the repository using this command.
     ```sh
-    $ git clone --recursive {github url for this repo}
+    $ git clone {github url for this repo}
     ```
-    - If you missed `--recursive` option, fetch the frontend submodule using `git clone`
-
-
-
-
