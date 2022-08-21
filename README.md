@@ -1,6 +1,7 @@
 # FastAPI - MySQL with Docker
 
 This is a starter code for integrating FastAPI with MySQL along with Docker.
+Some of starter code includes multiple examples from FastAPI [documentation](https://fastapi.tiangolo.com/tutorial/).
 
 ## Description 
 - Back-end: [Fastapi](https://fastapi.tiangolo.com)
@@ -28,4 +29,4 @@ This is a starter code for integrating FastAPI with MySQL along with Docker.
     ```sh 
     $ docker-compose up -d
     ```
-    
+   
