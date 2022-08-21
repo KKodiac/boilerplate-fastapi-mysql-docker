@@ -1,6 +1,6 @@
-# Backend
+# FastAPI - MySQL with Docker
 
-This is a Boilerplate for learning and testing FastAPI.
+This is a starter code for integrating FastAPI with MySQL along with Docker.
 
 ## Description 
 - Back-end: [Fastapi](https://fastapi.tiangolo.com)
@@ -9,5 +9,5 @@ This is a Boilerplate for learning and testing FastAPI.
 ## Installation 
 - Clone the repository using this command.
     ```sh
-    $ git clone {github url for this repo}
+    $ git clone https://github.com/KKodiac/boilerplate-fastapi-mysql-docker.git
     ```
