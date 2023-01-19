@@ -1,4 +1,4 @@
-# backend - Django
+# backend - FastAPI
 
 ## 가상환경 세팅
 
