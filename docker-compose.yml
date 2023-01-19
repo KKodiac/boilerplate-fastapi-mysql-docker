@@ -31,22 +31,5 @@ services:
     depends_on:
       - db
 
-
-  # frontend:
-  #   container_name: dev-frontend
-  #   build:
-  #     context: ./frontend
-  #   command: [ "yarn", "start" ]
-  #   ports:
-  #     - 80:3000
-  #   volumes:
-  #     - ./frontend/:/frontend
-  #     - ./frontend/node_modules/:/frontend/node_modules
-  #   environment:
-  #     - CI=true
-  #     - CHOKIDAR_USEPOLLING=true
-  #     - REACT_APP_BACKEND_URL=http://localhost:8080
-  #   tty: true
-
 volumes:
   mysql_data_dev: null
